@@ -1,0 +1,23 @@
+{
+  "name": "collegues-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevInstitut/collegues-api"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevInstitut/collegues-api/issues"
+  },
+  "homepage": "https://github.com/DevInstitut/collegues-api#readme",
+  "dependencies": {
+    "json-server": "^0.12.1"
+  }
+}
