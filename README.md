@@ -27,3 +27,5 @@ Exemple de collègues :
     "departement": "DSI"
 }
 ```
+
+Mot de passe : 123 en BCrypt
